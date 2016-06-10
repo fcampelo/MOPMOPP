@@ -1,0 +1,1103 @@
+<cenario>
+
+		<britador> 
+			<id>87</id> 
+			<producao-esperada>5800.0</producao-esperada>
+			<caracteristicas-minimas> 
+						<elemento nome="par2">0.005</elemento>
+						<elemento nome="par1">0.0347</elemento>
+						<elemento nome="par0">0.024</elemento>
+						<elemento nome="par6">0.0086</elemento>
+						<elemento nome="par5">0.028</elemento>
+						<elemento nome="par4">0.0093</elemento>
+						<elemento nome="par3">0.027</elemento>
+						<elemento nome="par9">0.0121</elemento>
+						<elemento nome="par7">0.011</elemento>
+						<elemento nome="par8">0.01</elemento>
+			</caracteristicas-minimas> 
+			<caracteristicas-recomendado> 
+						<elemento nome="par2">0.0163</elemento>
+						<elemento nome="par1">0.0424</elemento>
+						<elemento nome="par0">0.033</elemento>
+						<elemento nome="par6">0.0113</elemento>
+						<elemento nome="par5">0.0303</elemento>
+						<elemento nome="par4">0.0107</elemento>
+						<elemento nome="par3">0.0392</elemento>
+						<elemento nome="par9">0.0171</elemento>
+						<elemento nome="par7">0.0124</elemento>
+						<elemento nome="par8">0.0177</elemento>
+			</caracteristicas-recomendado> 
+			<caracteristicas-maximas> 
+						<elemento nome="par2">0.0275</elemento>
+						<elemento nome="par1">0.05</elemento>
+						<elemento nome="par0">0.042</elemento>
+						<elemento nome="par6">0.014</elemento>
+						<elemento nome="par5">0.0325</elemento>
+						<elemento nome="par4">0.012</elemento>
+						<elemento nome="par3">0.0513</elemento>
+						<elemento nome="par9">0.022</elemento>
+						<elemento nome="par7">0.0137</elemento>
+						<elemento nome="par8">0.0253</elemento>
+			</caracteristicas-maximas> 
+		</britador>
+		<pilha-de-esteril>
+			<id>91</id>
+			<producao-esperada>1798.0</producao-esperada>
+		</pilha-de-esteril>
+
+		<equipamento-de-carga>
+			<id>9</id>
+			<taxa-de-carregamento>900</taxa-de-carregamento>
+			<porte>1</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>8</id>
+			<taxa-de-carregamento>900</taxa-de-carregamento>
+			<porte>1</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>13</id>
+			<taxa-de-carregamento>1100</taxa-de-carregamento>
+			<porte>2</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>6</id>
+			<taxa-de-carregamento>900</taxa-de-carregamento>
+			<porte>1</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>7</id>
+			<taxa-de-carregamento>900</taxa-de-carregamento>
+			<porte>1</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>12</id>
+			<taxa-de-carregamento>1100</taxa-de-carregamento>
+			<porte>2</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>10</id>
+			<taxa-de-carregamento>1000</taxa-de-carregamento>
+			<porte>2</porte>
+		</equipamento-de-carga>
+
+		<equipamento-de-carga>
+			<id>11</id>
+			<taxa-de-carregamento>1000</taxa-de-carregamento>
+			<porte>2</porte>
+		</equipamento-de-carga>
+
+		<frente-de-lavra> 
+			<id>71</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Minério</material>
+				<qualidade-do-material>
+					<elemento nome="par4">0.0093</elemento>
+					<elemento nome="par3">0.0513</elemento>
+					<elemento nome="par6">0.0086</elemento>
+					<elemento nome="par5">0.0325</elemento>
+					<elemento nome="par0">0.024</elemento>
+					<elemento nome="par2">0.0275</elemento>
+					<elemento nome="par1">0.0347</elemento>
+					<elemento nome="par9">0.0121</elemento>
+					<elemento nome="par7">0.0137</elemento>
+					<elemento nome="par8">0.0253</elemento>
+
+				</qualidade-do-material>
+			</tipo>
+			<equipamentos>
+				<equipamento>13</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>70</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Minério</material>
+				<qualidade-do-material>
+					<elemento nome="par9">0.011</elemento>
+					<elemento nome="par8">0.027</elemento>
+					<elemento nome="par7">0.014</elemento>
+					<elemento nome="par6">0.008</elemento>
+					<elemento nome="par5">0.033</elemento>
+					<elemento nome="par4">0.009</elemento>
+					<elemento nome="par3">0.054</elemento>
+					<elemento nome="par2">0.03</elemento>
+					<elemento nome="par1">0.033</elemento>
+					<elemento nome="par0">0.022</elemento>
+
+				</qualidade-do-material>
+			</tipo>
+			<equipamentos>
+				<equipamento>6</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>76</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Minério</material>
+				<qualidade-do-material>
+					<elemento nome="par0">0.034</elemento>
+					<elemento nome="par1">0.0432</elemento>
+					<elemento nome="par2">0.015</elemento>
+					<elemento nome="par3">0.0378</elemento>
+					<elemento nome="par4">0.0108</elemento>
+					<elemento nome="par5">0.03</elemento>
+					<elemento nome="par6">0.0116</elemento>
+					<elemento nome="par7">0.0122</elemento>
+					<elemento nome="par8">0.0168</elemento>
+					<elemento nome="par9">0.0176</elemento>
+
+				</qualidade-do-material>
+			</tipo>
+			<equipamentos>
+				<equipamento>7</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>75</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Minério</material>
+				<qualidade-do-material>
+					<elemento nome="par5">0.0305</elemento>
+					<elemento nome="par6">0.011</elemento>
+					<elemento nome="par3">0.0405</elemento>
+					<elemento nome="par4">0.0105</elemento>
+					<elemento nome="par9">0.0165</elemento>
+					<elemento nome="par7">0.0125</elemento>
+					<elemento nome="par8">0.0185</elemento>
+					<elemento nome="par2">0.0175</elemento>
+					<elemento nome="par1">0.0415</elemento>
+					<elemento nome="par0">0.032</elemento>
+
+				</qualidade-do-material>
+			</tipo>
+			<equipamentos>
+				<equipamento>12</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>80</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Minério</material>
+				<qualidade-do-material>
+					<elemento nome="par1">0.05</elemento>
+					<elemento nome="par0">0.042</elemento>
+					<elemento nome="par7">0.011</elemento>
+					<elemento nome="par6">0.014</elemento>
+					<elemento nome="par9">0.022</elemento>
+					<elemento nome="par8">0.01</elemento>
+					<elemento nome="par3">0.027</elemento>
+					<elemento nome="par2">0.005</elemento>
+					<elemento nome="par5">0.028</elemento>
+					<elemento nome="par4">0.012</elemento>
+
+				</qualidade-do-material>
+			</tipo>
+			<equipamentos>
+				<equipamento>10</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>81</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Minério</material>
+				<qualidade-do-material>
+					<elemento nome="par9">0.0231</elemento>
+					<elemento nome="par7">0.0107</elemento>
+					<elemento nome="par8">0.0083</elemento>
+					<elemento nome="par5">0.0275</elemento>
+					<elemento nome="par6">0.0146</elemento>
+					<elemento nome="par4">0.0123</elemento>
+					<elemento nome="par3">0.0243</elemento>
+					<elemento nome="par2">0.0025</elemento>
+					<elemento nome="par1">0.0517</elemento>
+					<elemento nome="par0">0.044</elemento>
+
+				</qualidade-do-material>
+			</tipo>
+			<equipamentos>
+				<equipamento>11</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>84</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Estéril</material>
+			</tipo>
+			<equipamentos>
+				<equipamento>9</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<frente-de-lavra> 
+			<id>83</id>
+			<massa-total>2000.0</massa-total>
+			<limite_equipamentos>2</limite_equipamentos>
+			<tipo>
+				<material>Estéril</material>
+			</tipo>
+			<equipamentos>
+				<equipamento>8</equipamento>
+			</equipamentos>
+
+		</frente-de-lavra>
+
+		<rota>
+			<id>1</id>
+			<origem>87</origem>
+			<destino>84</destino>
+			<distancia>5.01</distancia>
+		</rota>
+
+
+		<rota>
+			<id>2</id>
+			<origem>84</origem>
+			<destino>87</destino>
+			<distancia>5.01</distancia>
+		</rota>
+
+
+		<rota>
+			<id>3</id>
+			<origem>87</origem>
+			<destino>83</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>4</id>
+			<origem>83</origem>
+			<destino>87</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>5</id>
+			<origem>91</origem>
+			<destino>71</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>6</id>
+			<origem>71</origem>
+			<destino>91</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>7</id>
+			<origem>91</origem>
+			<destino>70</destino>
+			<distancia>4.95</distancia>
+		</rota>
+
+
+		<rota>
+			<id>8</id>
+			<origem>70</origem>
+			<destino>91</destino>
+			<distancia>4.95</distancia>
+		</rota>
+
+
+		<rota>
+			<id>9</id>
+			<origem>87</origem>
+			<destino>76</destino>
+			<distancia>5.12</distancia>
+		</rota>
+
+
+		<rota>
+			<id>10</id>
+			<origem>76</origem>
+			<destino>87</destino>
+			<distancia>5.12</distancia>
+		</rota>
+
+
+		<rota>
+			<id>11</id>
+			<origem>87</origem>
+			<destino>75</destino>
+			<distancia>4.89</distancia>
+		</rota>
+
+
+		<rota>
+			<id>12</id>
+			<origem>75</origem>
+			<destino>87</destino>
+			<distancia>4.89</distancia>
+		</rota>
+
+
+		<rota>
+			<id>13</id>
+			<origem>87</origem>
+			<destino>81</destino>
+			<distancia>5.23</distancia>
+		</rota>
+
+
+		<rota>
+			<id>14</id>
+			<origem>81</origem>
+			<destino>87</destino>
+			<distancia>5.23</distancia>
+		</rota>
+
+
+		<rota>
+			<id>15</id>
+			<origem>87</origem>
+			<destino>80</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>16</id>
+			<origem>80</origem>
+			<destino>87</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>17</id>
+			<origem>87</origem>
+			<destino>71</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>18</id>
+			<origem>71</origem>
+			<destino>87</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>19</id>
+			<origem>87</origem>
+			<destino>70</destino>
+			<distancia>4.95</distancia>
+		</rota>
+
+
+		<rota>
+			<id>20</id>
+			<origem>70</origem>
+			<destino>87</destino>
+			<distancia>4.95</distancia>
+		</rota>
+
+
+		<rota>
+			<id>21</id>
+			<origem>91</origem>
+			<destino>83</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>22</id>
+			<origem>83</origem>
+			<destino>91</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>23</id>
+			<origem>91</origem>
+			<destino>84</destino>
+			<distancia>5.01</distancia>
+		</rota>
+
+
+		<rota>
+			<id>24</id>
+			<origem>84</origem>
+			<destino>91</destino>
+			<distancia>5.01</distancia>
+		</rota>
+
+
+		<rota>
+			<id>25</id>
+			<origem>91</origem>
+			<destino>75</destino>
+			<distancia>4.89</distancia>
+		</rota>
+
+
+		<rota>
+			<id>26</id>
+			<origem>75</origem>
+			<destino>91</destino>
+			<distancia>4.89</distancia>
+		</rota>
+
+
+		<rota>
+			<id>27</id>
+			<origem>91</origem>
+			<destino>76</destino>
+			<distancia>5.12</distancia>
+		</rota>
+
+
+		<rota>
+			<id>28</id>
+			<origem>76</origem>
+			<destino>91</destino>
+			<distancia>5.12</distancia>
+		</rota>
+
+
+		<rota>
+			<id>29</id>
+			<origem>91</origem>
+			<destino>80</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>30</id>
+			<origem>80</origem>
+			<destino>91</destino>
+			<distancia>5.06</distancia>
+		</rota>
+
+
+		<rota>
+			<id>31</id>
+			<origem>91</origem>
+			<destino>81</destino>
+			<distancia>5.23</distancia>
+		</rota>
+
+
+		<rota>
+			<id>32</id>
+			<origem>81</origem>
+			<destino>91</destino>
+			<distancia>5.23</distancia>
+		</rota>
+
+
+		<caminhao>
+			<id>6</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>5</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>10</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>9</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>8</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>7</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>24</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>23</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>26</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>25</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>20</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>19</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>22</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>21</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>16</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>15</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>18</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>17</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>12</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>11</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>14</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>13</id>
+			<capacidade>90</capacidade>
+			<porte>2</porte>
+			<velocidade-vazio>70.9</velocidade-vazio>
+			<velocidade-cheio>65.9</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>31</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>32</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>33</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>			
+		</caminhao>
+
+		<caminhao>
+			<id>34</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>27</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>28</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>29</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+
+		<caminhao>
+			<id>30</id>
+			<capacidade>56</capacidade>
+			<porte>1</porte>
+			<velocidade-vazio>72.6</velocidade-vazio>
+			<velocidade-cheio>67.6</velocidade-cheio>
+			<tempo-duracao-basculamento>60</tempo-duracao-basculamento>
+			<habilitado>true</habilitado>
+			<frenteFixa>frue</frenteFixa>
+			<rotasFrenteFixa>
+				<rotaInicial>2</rotaInicial>
+				<rotaVazio>2</rotaVazio>
+				<rotaCarregado>1</rotaCarregado>
+			</rotasFrenteFixa>
+			<tipo>
+				<material>Caminhão Vazio</material>
+			</tipo>
+		</caminhao>
+</cenario>
